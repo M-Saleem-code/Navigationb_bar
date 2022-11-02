@@ -1,0 +1,104 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	height: 100vh;
+	width: 100vw;
+background-image: url("https://www.ford.co.uk/content/dam/guxeu/rhd/central/home/billboard/2022/ford-homepage-eu-CX482_KUGA_SHOT4_Rear34_Charging_v6_L-21x9-2160x925.jpg.renditions.original.png");
+
+ background-size: cover;
+ background-position: center;
+
+}
+}
+nav ul a:hover{
+	color: green;
+}
+.container{
+ font-size:20px;
+ 
+
+}
+span{
+	color: red;
+}
+nav ul{
+	float: right;
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin-top: 8%;
+
+}
+nav ul li a{
+	text-decoration-line: none;
+	color: #00e0ff;
+	font-size: 25px;
+	padding: 0px 6px;
+	margin-right: 70px;
+	font-weight: bold;
+	margin-top: 60px;
+	cursor: pointer;
+
+}
+.logo h1{
+      margin-top: 60px;
+    float: left;
+    color: blueviolet;
+}
+.bar input{
+	border: 2px solid green;
+	border-radius: 50px;
+	margin-top: 74px;
+	padding: 0px 1px;
+   
+   
+
+
+}
+.bar input hover{
+	color: black;
+}
+.bar label{
+	margin-left: 2%;
+	color:  greenyellow;
+	font-weight: bold;
+
+
+}
+.fill{
+	margin-top: 6%;
+	color: greenyellow;
+   font-size: 20px;
+   text-align: center;
+
+
+}
+.fill h{
+	font-size: 30px;
+}
+.fill input{
+
+    padding: 5px 70px;
+    margin: 15px;
+	text-align: center;
+}
+button{
+	font-size: 15px;
+	border: 2px solid greenyellow;
+	padding: 2px 100px;
+
+
+}
+button a{
+	text-decoration-line: none;
+	color: black;
+}
+button a:hover{
+	color: greenyellow;
+	cursor: pointer;
+
+}
